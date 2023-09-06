@@ -13,6 +13,7 @@
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
+
 </head>
 
 <body>
@@ -45,18 +46,18 @@
                     <ul class="topbar-info">
                         <li>
                             <i class="base-icon-email1"></i>
-                            <a href="mailto:example@gmail.com">info@dolex.com</a>
+                            <a href="mailto:example@gmail.com">dolextech@outlook.com</a>
                         </li>
                         <li>
                             <i class="base-icon-pin2"></i>
-                            Nairobi, Kenya
+                            Kagio, Kenya
                         </li>
                     </ul>
                 </div>
                 <div class="header-topbar-rightpart">
                     <ul class="topbar-social">
                         <li>
-                            <a href="#"><i class="fab fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=100094146408272"><i class="fab fa-facebook"></i></a>
                         </li>
                         <li>
                             <a href="#"><i class="fab fa-instagram"></i></a>

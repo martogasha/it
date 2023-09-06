@@ -72,7 +72,7 @@
                             </div>
                             <div class="contact-details mrl-30">
                                 <h5 class="icon-box-title mrb-10">Kenya</h5>
-                                <p class="mrb-0">Nairobi, Kenya</p>
+                                <p class="mrb-0">Kagio, Kenya</p>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                             </div>
                             <div class="contact-details mrl-30">
                                 <h5 class="icon-box-title mrb-10">Email Us</h5>
-                                <p class="mrb-0">info@dolex.com</p>
+                                <p class="mrb-0">dolextech@outlook.com</p>
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                             </div>
                             <div class="contact-details mrl-30">
                                 <h5 class="icon-box-title mrb-10">Phone Number</h5>
-                                <p class="mrb-0">0708525144</p>
+                                <p class="mrb-0">0703725501</p>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                 <h2 class="faq-title mrb-30">Have Any Questions?</h2>
                 <ul class="social-list list-lg list-primary-color list-flat mrb-lg-60 clearfix">
                     <li>
-                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100094146408272"><i class="fab fa-facebook"></i></a>
                     </li>
                     <li>
                         <a href="#"><i class="fab fa-twitter"></i></a>

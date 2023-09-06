@@ -43,15 +43,12 @@
                     <div class="widget footer-widget mrr-30 mrr-md-0">
                         <h5 class="widget-title text-white mrb-30">Contact</h5>
                         <address class="mrb-0">
-                            <p>Nairobi, Kenya</p>
+                            <p>Kagio, Kenya</p>
                             <div class="mrb-10">
-                                <a href="#"><i class="fab fa-whatsapp"></i> 0708525144</a>
+                                <a href="#"><i class="fab fa-whatsapp"></i> 0703725501</a>
                             </div>
                             <div class="mrb-10">
-                                <a href="#"><i class="fas fa-envelope mrr-10"></i>info@dolex.com</a>
-                            </div>
-                            <div class="mrb-0">
-                                <a href="#"><i class="fas fa-globe mrr-10"></i>www.dolex.com</a>
+                                <a href="#"><i class="fas fa-envelope mrr-10"></i>dolextech@outlook.com</a>
                             </div>
                         </address>
                     </div>
@@ -97,13 +94,13 @@
         </div>
         <div class="mobile-nav-container"></div>
         <ul class="list-items mobile-sidebar-contact">
-            <li><span class="fa fa-map-marker-alt mrr-10 text-gradient-color"></span>Nairobi, Kenya</li>
-            <li><span class="fas fa-envelope mrr-10 text-gradient-color"></span><a href="mailto:example@gmail.com">info@dolex.com</a></li>
-            <li><span class="fas fa-phone-alt mrr-10 text-gradient-color"></span><a href="tel:123456789">0708525144</a></li>
+            <li><span class="fa fa-map-marker-alt mrr-10 text-gradient-color"></span>Kagio, Kenya</li>
+            <li><span class="fas fa-envelope mrr-10 text-gradient-color"></span><a href="mailto:example@gmail.com">dolextech@outlook.com</a></li>
+            <li><span class="fas fa-phone-alt mrr-10 text-gradient-color"></span><a href="tel:123456789">0703725501</a></li>
         </ul>
         <ul class="social-list list-webex-primary-color">
             <li>
-                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100094146408272"><i class="fab fa-facebook"></i></a>
             </li>
             <li>
                 <a href="#"><i class="fab fa-instagram"></i></a>

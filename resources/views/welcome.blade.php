@@ -148,8 +148,8 @@
                             </div>
                             <div class="featured-content">
                                 <h4 class="featured-title">Free Consultation</h4>
-                                <p class="featured-desc mrb-0"><a href="#"><i class="fab fa-whatsapp"></i> 0708525144</a>
-                                <p class="featured-desc mrb-0"><a href="#"><i class="fas fa-envelope mrr-10"></i>info@dolex.com</a>
+                                <p class="featured-desc mrb-0"><a href="#"><i class="fab fa-whatsapp"></i> 0703725501</a>
+                                <p class="featured-desc mrb-0"><a href="#"><i class="fas fa-envelope mrr-10"></i>dolextech@outlook.com</a>
 
                                 </p>
                             </div>
@@ -343,112 +343,112 @@
 <!-- Testimonials Section End -->
 <!-- News Section Start -->
 <section class="pdt-105 bg-cover" data-background="images/bg/abs-bg8.png">
-    <div class="section-title mrb-60 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-6 col-lg-8 col-md-12">
-                    <div class="title-box-center">
-                        <h5 class="side-line-left sub-title text-gradient-color">Latest Blog</h5>
-                        <h2 class="mrb-25">News & <span class="text-gradient-color">Updates </span></h2>
-                        <div class="section-title-big_text">News</div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-4 col-md-12 text-lg-end">
-                    <a href="page-news.html" class="theme-btn-1">All News <i class="base-icon-next"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section-content mrb-80">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper-style1 mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/01.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Architecture</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>
-                            </h4>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img1.jpg" class="rounded-circle" alt="#" />
-                                        </a>
-                                    </div>
-                                    <span><a href="page-news.html">Admin</a></span>
-                                </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper-style1 mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/02.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Building</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>
-                            </h4>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img2.jpg" class="rounded-circle" alt="#" />
-                                        </a>
-                                    </div>
-                                    <span><a href="page-news.html">Admin</a></span>
-                                </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xl-4">
-                    <div class="news-wrapper-style1 mrb-30">
-                        <div class="news-thumb">
-                            <img src="images/news/03.jpg" class="img-full" alt="blog" />
-                            <div class="news-top-meta">
-                                <span class="entry-category">Interior</span>
-                            </div>
-                        </div>
-                        <div class="news-description">
-                            <h4 class="the-title">
-                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>
-                            </h4>
-                            <div class="news-bottom-part">
-                                <div class="post-author">
-                                    <div class="author-img">
-                                        <a href="page-news.html">
-                                            <img src="images/testimonials/testimonial-img3.jpg" class="rounded-circle" alt="#" />
-                                        </a>
-                                    </div>
-                                    <span><a href="page-news.html">Admin</a></span>
-                                </div>
-                                <div class="post-link">
-                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="section-title mrb-60 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-end">--}}
+{{--                <div class="col-xl-6 col-lg-8 col-md-12">--}}
+{{--                    <div class="title-box-center">--}}
+{{--                        <h5 class="side-line-left sub-title text-gradient-color">Latest Blog</h5>--}}
+{{--                        <h2 class="mrb-25">News & <span class="text-gradient-color">Updates </span></h2>--}}
+{{--                        <div class="section-title-big_text">News</div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-xl-6 col-lg-4 col-md-12 text-lg-end">--}}
+{{--                    <a href="page-news.html" class="theme-btn-1">All News <i class="base-icon-next"></i></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--    <div class="section-content mrb-80">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row justify-content-center">--}}
+{{--                <div class="col-md-6 col-lg-6 col-xl-4">--}}
+{{--                    <div class="news-wrapper-style1 mrb-30">--}}
+{{--                        <div class="news-thumb">--}}
+{{--                            <img src="images/news/01.jpg" class="img-full" alt="blog" />--}}
+{{--                            <div class="news-top-meta">--}}
+{{--                                <span class="entry-category">Architecture</span>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="news-description">--}}
+{{--                            <h4 class="the-title">--}}
+{{--                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>--}}
+{{--                            </h4>--}}
+{{--                            <div class="news-bottom-part">--}}
+{{--                                <div class="post-author">--}}
+{{--                                    <div class="author-img">--}}
+{{--                                        <a href="page-news.html">--}}
+{{--                                            <img src="images/testimonials/testimonial-img1.jpg" class="rounded-circle" alt="#" />--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                    <span><a href="page-news.html">Admin</a></span>--}}
+{{--                                </div>--}}
+{{--                                <div class="post-link">--}}
+{{--                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-6 col-lg-6 col-xl-4">--}}
+{{--                    <div class="news-wrapper-style1 mrb-30">--}}
+{{--                        <div class="news-thumb">--}}
+{{--                            <img src="images/news/02.jpg" class="img-full" alt="blog" />--}}
+{{--                            <div class="news-top-meta">--}}
+{{--                                <span class="entry-category">Building</span>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="news-description">--}}
+{{--                            <h4 class="the-title">--}}
+{{--                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>--}}
+{{--                            </h4>--}}
+{{--                            <div class="news-bottom-part">--}}
+{{--                                <div class="post-author">--}}
+{{--                                    <div class="author-img">--}}
+{{--                                        <a href="page-news.html">--}}
+{{--                                            <img src="images/testimonials/testimonial-img2.jpg" class="rounded-circle" alt="#" />--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                    <span><a href="page-news.html">Admin</a></span>--}}
+{{--                                </div>--}}
+{{--                                <div class="post-link">--}}
+{{--                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-6 col-lg-6 col-xl-4">--}}
+{{--                    <div class="news-wrapper-style1 mrb-30">--}}
+{{--                        <div class="news-thumb">--}}
+{{--                            <img src="images/news/03.jpg" class="img-full" alt="blog" />--}}
+{{--                            <div class="news-top-meta">--}}
+{{--                                <span class="entry-category">Interior</span>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="news-description">--}}
+{{--                            <h4 class="the-title">--}}
+{{--                                <a href="page-news-details.html">Distinctively revolutionary for chang the Seamlessly</a>--}}
+{{--                            </h4>--}}
+{{--                            <div class="news-bottom-part">--}}
+{{--                                <div class="post-author">--}}
+{{--                                    <div class="author-img">--}}
+{{--                                        <a href="page-news.html">--}}
+{{--                                            <img src="images/testimonials/testimonial-img3.jpg" class="rounded-circle" alt="#" />--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                    <span><a href="page-news.html">Admin</a></span>--}}
+{{--                                </div>--}}
+{{--                                <div class="post-link">--}}
+{{--                                    <span class="entry-date"><i class="far fa-calendar-alt mrr-10 text-gradient-color"></i>01 Jan, 2022</span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
     <!-- Call to Action Start -->
     <div class="call-to-action">
         <div class="container">
