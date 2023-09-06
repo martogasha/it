@@ -43,7 +43,7 @@
 </header>
 <!-- Header Area End -->
 <!-- Page Title Start -->
-<section class="page-title-section" style="background-image: url({{asset('images/service/nq.jpg')}}">
+<section class="page-title-section" style="background-image: url({{asset('images/service/ff.jpg')}}">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -70,27 +70,19 @@
                     </div>
                     <h3 class="mrb-15">Service Details</h3>
                     <p class="mrb-40">
-                        Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace
-                        diversity and empowerment.
-                    </p>
-                    <p class="about-text-block mrb-40">Lorem ipsum dolor sit amet consectetur convallis ultrices sociis fermentum orci nasceture convallis ultrices sociis</p>
-                    <p class="mrb-35">
-                        Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace
-                        diversity and empowerment. Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.
+                        We are available in Kagio Town: <b>Baricho Road, Kiamachiri Road, Gigi Lounge area, Kandongu, Kagio-Sagana Road, Kagio-Kutus Road, Gatarwa</b>
                     </p>
                     <div class="service-details-content">
                         <div class="row d-flex">
                             <div class="col-lg-12 col-xl-6">
                                 <h3 class="mrb-20">Service Included</h3>
                                 <ul class="order-list primary-color mrb-lg-40">
-                                    <li>revolutionary catalysts for chang</li>
-                                    <li>catalysts for chang the Seamlessly</li>
-                                    <li>business applications through</li>
-                                    <li>procedures whereas processes</li>
+                                    <li>Free Fibre Installation Kagio Town</li>
+                                    <li>Office Networking</li>
                                 </ul>
                             </div>
                             <div class="col-lg-12 col-xl-6">
-                                <img class="img-full mrb-lg-35" src="images/service/nt.jpg" alt="" />
+                                <img class="img-full mrb-lg-35" src="images/service/ff.jpg" alt="" />
                             </div>
                         </div>
                     </div>
